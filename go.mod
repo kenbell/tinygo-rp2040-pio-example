@@ -1,3 +1,3 @@
-module foo
+module blink
 
 go 1.16
